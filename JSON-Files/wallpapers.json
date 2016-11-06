@@ -1,79 +1,109 @@
 {
 	"wallpapers": [
 		{
-		"author": "Travis Hall",
-		"url": "https://raw.githubusercontent.com/RippedThemer/Timeless-Wallpapers/master/Wallpapers/1Abstract/bike.png”,
-		"name": "bike"
+			"name": "bike",
+			"author": "Travis Hall",
+			"url": "https://github.com/RippedThemer/Timeless-Wallpapers/tree/master/Wallpapers/bike.png",
+			"dimensions": "1920 x 2460",
+			"copyright": "Copyright 2016. All rights reserved."
 		},
 		{
-		"author": "Travis Hall",
-		"url": "https://raw.githubusercontent.com/RippedThemer/Timeless-Wallpapers/master/Wallpapers/1Abstract/bike2.png",
-		"name": "bike2"
+			"name": "bike2",
+			"author": "Travis Hall",
+			"url": "https://github.com/RippedThemer/Timeless-Wallpapers/tree/master/Wallpapers/bike2.png",
+			"dimensions": "1920 x 2460",
+			"copyright": "Copyright 2016. All rights reserved."
 		},
 		{
-		"author": "Travis Hall",
-		"url": "https://raw.githubusercontent.com/RippedThemer/Timeless-Wallpapers/master/Wallpapers/1Abstract/bike3.png",
-		"name": "bike3"
+			"name": "bike3",
+			"author": "Travis Hall",
+			"url": "https://github.com/RippedThemer/Timeless-Wallpapers/tree/master/Wallpapers/bike3.png",
+			"dimensions": "1920 x 2460",
+			"copyright": "Copyright 2016. All rights reserved."
 		},
 		{
-		"author": "Travis Hall",
-		"url": "https://raw.githubusercontent.com/RippedThemer/Timeless-Wallpapers/master/Wallpapers/1Abstract/bike4.png",
-		"name": "bike4"
+			"name": "bike4",
+			"author": "Travis Hall",
+			"url": "https://github.com/RippedThemer/Timeless-Wallpapers/tree/master/Wallpapers/bike4.png",
+			"dimensions": "1920 x 2460",
+			"copyright": "Copyright 2016. All rights reserved."
 		},
 		{
-		"author": "Travis Hall",
-		"url": "https://raw.githubusercontent.com/RippedThemer/Timeless-Wallpapers/master/Wallpapers/1Abstract/bike5.png",
-		"name": "bike5"
+			"name": "bike5",
+			"author": "Travis Hall",
+			"url": "https://github.com/RippedThemer/Timeless-Wallpapers/tree/master/Wallpapers/bike5.png",
+			"dimensions": "1920 x 2460",
+			"copyright": "Copyright 2016. All rights reserved."
 		},
 		{
-		"author": "Travis Hall",
-		"url": "https://raw.githubusercontent.com/RippedThemer/Timeless-Wallpapers/master/Wallpapers/1Abstract/bike6.png",
-		"name": "bike6"
+			"name": "bike6",
+			"author": "Travis Hall",
+			"url": "https://github.com/RippedThemer/Timeless-Wallpapers/tree/master/Wallpapers/bike6.png",
+			"dimensions": "1920 x 2460",
+			"copyright": "Copyright 2016. All rights reserved."
 		},
 		{
-		"author": "Travis Hall",
-		"url": "https://raw.githubusercontent.com/RippedThemer/Timeless-Wallpapers/master/Wallpapers/2Abstract/bubbles.png",
-		"name": "bubbles"
+			"name": "blocks",
+			"author": "Travis Hall",
+			"url": "https://github.com/RippedThemer/Timeless-Wallpapers/tree/master/Wallpapers/blocks.png",
+			"dimensions": "1920 x 2460",
+			"copyright": "Copyright 2016. All rights reserved."
 		},
 		{
-		"author": "Travis Hall",
-		"url": "https://raw.githubusercontent.com/RippedThemer/Timeless-Wallpapers/master/Wallpapers/3Colorful/blocks.png",
-		"name": "blocks"
-		},
-		{ 
-		"author": "Travis Hall",
-		"url": "https://raw.githubusercontent.com/RippedThemer/Timeless-Wallpapers/master/Wallpapers/3Colorful/stripes.png",
-		"name": "stripes"
+			"name": "bubbles",
+			"author": "Travis Hall",
+			"url": "https://github.com/RippedThemer/Timeless-Wallpapers/tree/master/Wallpapers/bubbles.png",
+			"dimensions": "1920 x 2460",
+			"copyright": "Copyright 2016. All rights reserved."
 		},
 		{
-		"author": "Travis Hall",
-		"url": "https://raw.githubusercontent.com/RippedThemer/Timeless-Wallpapers/master/Wallpapers/3Colorful/stripes2.png",
-		"name": "stripes2"
-		},
-		{	
-		"author": "Travis Hall",
-		"url": "https://raw.githubusercontent.com/RippedThemer/Timeless-Wallpapers/master/Wallpapers/3Colorful/stripes3.png",
-		"name": "stripes3"
+			"name": "laying_pipe",
+			"author": "Travis Hall",
+			"url": "https://github.com/RippedThemer/Timeless-Wallpapers/tree/master/Wallpapers/laying_pipe.png",
+			"dimensions": "1920 x 2460",
+			"copyright": "Copyright 2016. All rights reserved."
 		},
 		{
-		"author": "Travis Hall",
-		"url": "https://raw.githubusercontent.com/RippedThemer/Timeless-Wallpapers/master/Wallpapers/3Colorful/stripes4.png",
-		"name": "stripes4"
+			"name": "stripes",
+			"author": "Travis Hall",
+			"url": "https://github.com/RippedThemer/Timeless-Wallpapers/tree/master/Wallpapers/stripes.png",
+			"dimensions": "1920 x 2460",
+			"copyright": "Copyright 2016. All rights reserved."
 		},
 		{
-		"author": "Travis Hall",
-		"url": "https://raw.githubusercontent.com/RippedThemer/Timeless-Wallpapers/master/Wallpapers/4Retro/laying_pipe.png",
-		"name": "laying pipe"
+			"name": "stripes2",
+			"author": "Travis Hall",
+			"url": "https://github.com/RippedThemer/Timeless-Wallpapers/tree/master/Wallpapers/stripes2.png",
+			"dimensions": "1920 x 2460",
+			"copyright": "Copyright 2016. All rights reserved."
 		},
 		{
-		"author": "Travis Hall",
-		"url": "https://raw.githubusercontent.com/RippedThemer/Timeless-Wallpapers/master/Wallpapers/4Retro/time_is_lines.png",
-		"name": "time is lines"
+			"name": "stripes3",
+			"author": "Travis Hall",
+			"url": "https://github.com/RippedThemer/Timeless-Wallpapers/tree/master/Wallpapers/stripes3.png",
+			"dimensions": "1920 x 2460",
+			"copyright": "Copyright 2016. All rights reserved."
 		},
 		{
-		"author": "Travis Hall",
-		"url": "https://raw.githubusercontent.com/RippedThemer/Timeless-Wallpapers/master/Wallpapers/4Retro/time_is_right.png",
-		"name": "time is right"
+			"name": "stripes4",
+			"author": "Travis Hall",
+			"url": "https://github.com/RippedThemer/Timeless-Wallpapers/tree/master/Wallpapers/stripes4.png",
+			"dimensions": "1920 x 2460",
+			"copyright": "Copyright 2016. All rights reserved."
+		},
+		{
+			"name": "TimeIsLines",
+			"author": "Travis Hall",
+			"url": "https://github.com/RippedThemer/Timeless-Wallpapers/tree/master/Wallpapers/TimeIsLines.png",
+			"dimensions": "1920 x 2460",
+			"copyright": "Copyright 2016. All rights reserved."
+		},
+		{
+			"name": "TimeItRight",
+			"author": "Travis Hall",
+			"url": "https://github.com/RippedThemer/Timeless-Wallpapers/tree/master/Wallpapers/TimeItRight.png",
+			"dimensions": "1920 x 2460",
+			"copyright": "Copyright 2016. All rights reserved."
 		}
 	]
 }
