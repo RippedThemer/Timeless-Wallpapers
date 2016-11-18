@@ -153,6 +153,20 @@
 			"url": "https://raw.githubusercontent.com/RippedThemer/Timeless-Wallpapers/master/Wallpapers/TimeItRight.png",
 			"dimensions": "1920 x 2460",
 			"copyright": "Copyright 2016. All rights reserved."
-		}
+		},
+		{
+			"name": "Mikey",
+			"author": "Travis Hall",
+			"url": "https://raw.githubusercontent.com/RippedThemer/Timeless-Wallpapers/master/Wallpapers/Mikey.png",
+			"dimensions": "1920 x 2460",
+			"copyright": "Copyright 2016. All rights reserved."	
+		},
+		{
+			"name": "Willie",
+			"author": "Travis Hall",
+			"url": "https://raw.githubusercontent.com/RippedThemer/Timeless-Wallpapers/master/Wallpapers/Willie.png",
+			"dimensions": "1920 x 2460",
+			"copyright": "Copyright 2016. All rights reserved."
+		}	
 	]
 }
